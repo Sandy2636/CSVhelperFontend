@@ -1,0 +1,23 @@
+.selection{
+    background-color: #080F0F;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    a{
+        text-decoration: none;
+    }
+        button{
+            height: 95vh;
+            width: 50vw;
+            color: #A4BAB7;
+            text-decoration: none;
+            font-size: 24px;
+        }
+        button:hover{
+            background-color: #A4BAB7;
+            color: #080F0F;
+            
+        }
+    
+}
